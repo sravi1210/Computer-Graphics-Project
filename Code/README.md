@@ -21,4 +21,4 @@
 	$ - python3 fileName.py
 
 ## Whole Project Along With Dat File Can Be Found At 
-	github.com/sravi1210/Computer-Graphics-Project
+	https://github.com/sravi1210/Computer-Graphics-Project/tree/master/Code
